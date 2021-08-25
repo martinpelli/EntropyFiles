@@ -43,6 +43,7 @@ namespace Practico1_Ejercicio3_TDI
             this.loadFile1Button.TabIndex = 0;
             this.loadFile1Button.Text = "Cargar Primer Archivo";
             this.loadFile1Button.UseVisualStyleBackColor = true;
+            this.loadFile1Button.Click += new System.EventHandler(this.loadFile1Button_Click);
             // 
             // loadFile2Button
             // 
@@ -52,6 +53,7 @@ namespace Practico1_Ejercicio3_TDI
             this.loadFile2Button.TabIndex = 1;
             this.loadFile2Button.Text = "Cargar Segundo Archivo";
             this.loadFile2Button.UseVisualStyleBackColor = true;
+            this.loadFile2Button.Click += new System.EventHandler(this.loadFile2Button_Click);
             // 
             // tittleLabel
             // 
