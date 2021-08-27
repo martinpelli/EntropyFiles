@@ -1,0 +1,10 @@
+C:\Users\marti\source\repos\Practico1-Ejercicio3-TDI\Practico1-Ejercicio3-TDI\bin\Release\Practico1-Ejercicio3-TDI.exe.config
+C:\Users\marti\source\repos\Practico1-Ejercicio3-TDI\Practico1-Ejercicio3-TDI\bin\Release\Practico1-Ejercicio3-TDI.exe
+C:\Users\marti\source\repos\Practico1-Ejercicio3-TDI\Practico1-Ejercicio3-TDI\bin\Release\Practico1-Ejercicio3-TDI.pdb
+C:\Users\marti\source\repos\Practico1-Ejercicio3-TDI\Practico1-Ejercicio3-TDI\obj\Release\Practico1-Ejercicio3-TDI.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\Practico1-Ejercicio3-TDI\Practico1-Ejercicio3-TDI\obj\Release\Practico1_Ejercicio3_TDI.Form1.resources
+C:\Users\marti\source\repos\Practico1-Ejercicio3-TDI\Practico1-Ejercicio3-TDI\obj\Release\Practico1_Ejercicio3_TDI.Properties.Resources.resources
+C:\Users\marti\source\repos\Practico1-Ejercicio3-TDI\Practico1-Ejercicio3-TDI\obj\Release\Practico1-Ejercicio3-TDI.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\Practico1-Ejercicio3-TDI\Practico1-Ejercicio3-TDI\obj\Release\Practico1-Ejercicio3-TDI.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Practico1-Ejercicio3-TDI\Practico1-Ejercicio3-TDI\obj\Release\Practico1-Ejercicio3-TDI.exe
+C:\Users\marti\source\repos\Practico1-Ejercicio3-TDI\Practico1-Ejercicio3-TDI\obj\Release\Practico1-Ejercicio3-TDI.pdb
