@@ -15,6 +15,8 @@ namespace Practico1_Ejercicio3_TDI
     {
         double entropy1 = 0;
         double entropy2 = 0;
+        double redundancy1 = 1;
+        double redundancy2 = 1;
         public Form1()
         {
             InitializeComponent();
@@ -29,6 +31,7 @@ namespace Practico1_Ejercicio3_TDI
                 {
                     FileInfo file = new FileInfo(path);
                     entropy1 = CalculateEntropy(file);
+                    redundancy1 = (1 - entropy1) / 1;
                     MessageBox.Show("Archivo Cargado Correctamente");
                 }
             }
@@ -43,10 +46,12 @@ namespace Practico1_Ejercicio3_TDI
                     {
                         FileInfo file = new FileInfo(path);
                         entropy2 = CalculateEntropy(file);
+                        redundancy2 = (1 - entropy2) / 1;
                         MessageBox.Show("Archivo Cargado Correctamente");
-                    MessageBox.Show("La entropía del primer archivo es: " + entropy1.ToString() + " y la del segundo es: " + entropy2.ToString());
+                        MessageBox.Show("La entropía del primer archivo es: " + entropy1.ToString() + " y la del segundo es: " + entropy2.ToString());
+                        MessageBox.Show("La redundancia del primer archivo es: " + redundancy1.ToString() + " y la del segundo es: " + redundancy2.ToString());
 
-                    }
+                }
 
                 }
         }
